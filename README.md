@@ -2,6 +2,12 @@
 
 This repository includes multiple data science projects.
 
+## Digit Recognizer
+
+MNIST ("Modified National Institute of Standards and Technology") is the de facto “hello world” dataset of computer vision. Since its release in 1999, this classic dataset of handwritten images has served as the basis for benchmarking classification algorithms. As new machine learning techniques emerge, MNIST remains a reliable resource for researchers and learners alike.
+
+This is Kaggle's competition: [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer/overview), and I rank top 25% on this project.
+
 ## Real Estate Analysis
 Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
 
